@@ -5,6 +5,4 @@ pillow
 numpy
 requests
 python-multipart
-pickle
-scikit-learn
 
