@@ -1,8 +1,7 @@
 fastapi
 uvicorn
+numpy
 tensorflow
 pillow
-numpy
+pickle-mixin
 requests
-python-multipart
-
